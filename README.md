@@ -1,6 +1,12 @@
 # kafka-client
 kafka消息发送客户端库
 
+## 详细介绍
+见 https://blog.csdn.net/MICweaver/article/details/85041252
+
+## 整体架构
+![架构图](https://img-blog.csdnimg.cn/20181216214954189.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L01JQ3dlYXZlcg==,size_16,color_FFFFFF,t_70)
+
 ## 代码示例:
  
 
